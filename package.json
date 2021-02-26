@@ -1,0 +1,22 @@
+{
+	"name": "suppress-experimental",
+	"version": "1.0.0",
+	"description": "Block Node.js experimental warnings from the current process",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"author": "Corey Farrell",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cfware/suppress-experimental.git"
+	},
+	"bugs": {
+		"url": "https://github.com/cfware/suppress-experimental/issues"
+	},
+	"homepage": "https://github.com/cfware/suppress-experimental#readme"
+}
